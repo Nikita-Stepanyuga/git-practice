@@ -2,4 +2,4 @@
 
 Учебный проект Git.
 
-Изменения в main branch
+Изменения в feature branch
