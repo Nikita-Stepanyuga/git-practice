@@ -2,4 +2,4 @@
 
 Учебный проект Git.
 
-Изменения в feature branch
+Версия FEATURE
